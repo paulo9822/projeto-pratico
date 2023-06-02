@@ -1,3 +1,6 @@
+def multiplicacao(x, y):
+    return (x * y)
+
 def soma (x, y, z, a):
     return (x + y) * z / a
 
